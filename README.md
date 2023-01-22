@@ -32,13 +32,10 @@ Screen Shots:
 ![image](https://user-images.githubusercontent.com/73048959/198842021-c92436f4-3b23-45ce-afbd-daecfc70aab4.png)
 
 2. MAIN MENU(FRONT) FORM: This form presents a list of before the user in form of a combo box. The user can select any one program and the program opens up the selected form. 
-
 ![image](https://user-images.githubusercontent.com/73048959/198842040-150e791c-5f59-422e-a642-49b88b0dc068.png)
 
 3. ADD,SEARCH AND DELETE  FORM: This form helps the user to add details of avilablesroom,searchavilables rooms and delete unrequired rooms.
-
 ![image](https://user-images.githubusercontent.com/73048959/198842142-9d924870-8f7d-46ec-84a3-bdea8b5c30bd.png)
 
 4. CHECKIN AND CHECKOUT FROM:  For checkin and checkout  process.
-
 ![image](https://user-images.githubusercontent.com/73048959/198842055-46aafda7-1806-4836-925c-c2f311c5b0bd.png)
